@@ -1,6 +1,5 @@
 <!-- ============================================================
   HORROR README - E-Commerce Sales Dashboard (Power BI)
-  Paste into README.md of this repo. Search "EDIT" for things to check.
 ============================================================= -->
 
 <div align="center">
@@ -72,7 +71,6 @@ Using **Microsoft Power BI**, the raw sales data was turned into an **interactiv
  🔴  CUSTOMER SEGMENTS    →  who buys, how often, and how much they are worth
  🔴  OVERSTOCK            →  inventory that sits and waits
 ```
-<!-- EDIT: add or remove items so the list matches the pages in your dashboard -->
 
 ---
 
@@ -96,7 +94,6 @@ Using **Microsoft Power BI**, the raw sales data was turned into an **interactiv
         ▼
    🎯 DECISIONS                less overstock, higher margin
 ```
-<!-- EDIT: confirm whether you used DAX and Power Query; remove them if not -->
 
 ---
 
@@ -126,7 +123,6 @@ $ ./analyze --dataset=ecommerce_sales --rows=10200
 $ status
 > The eye is open. Nothing escapes.
 ```
-<!-- This log is just storytelling to match the theme -->
 
 ---
 
@@ -137,7 +133,6 @@ $ status
 | Business intelligence | Microsoft Power BI |
 | Data preparation | Excel, SQL |
 | Analysis | KPIs, drill-through, segment analysis |
-<!-- EDIT: add DAX, Power Query, Python or anything else you actually used -->
 
 ---
 
@@ -149,7 +144,6 @@ git clone https://github.com/nehareddy-web/E-Commerce-Sales-Dashboard.git
 cd E-Commerce-Sales-Dashboard
 
 ```
-<!-- EDIT: change the repo name and mention the exact .pbix file name -->
 
 ---
 
@@ -158,7 +152,6 @@ cd E-Commerce-Sales-Dashboard
 - 🔴 Connect the dashboard directly to a live SQL database
 - 🔴 Add a sales forecasting page
 - 🔴 Publish the report to Power BI Service for sharing
-<!-- EDIT: keep only the ones you actually plan to do -->
 
 ---
 
